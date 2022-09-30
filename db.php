@@ -2,8 +2,8 @@
 
 $servidor = "localhost";
 $usuario = "root";
-$senha = "";
-$db = "aula_php";
+$senha = "185110";
+$db = "dogCursos";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $db);
 
